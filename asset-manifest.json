@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/static/css/main.e27c75d0.css",
-    "main.js": "/static/js/main.01e84628.js",
-    "static/js/453.723a2ecd.chunk.js": "/static/js/453.723a2ecd.chunk.js",
-    "static/media/classIcon.png": "/static/media/classIcon.4431785218376e851ab0.png",
-    "index.html": "/index.html",
-    "main.e27c75d0.css.map": "/static/css/main.e27c75d0.css.map",
-    "main.01e84628.js.map": "/static/js/main.01e84628.js.map",
-    "453.723a2ecd.chunk.js.map": "/static/js/453.723a2ecd.chunk.js.map"
+    "main.css": "/dmaster-card/static/css/main.06d4bbe2.css",
+    "main.js": "/dmaster-card/static/js/main.cb712a15.js",
+    "static/js/453.723a2ecd.chunk.js": "/dmaster-card/static/js/453.723a2ecd.chunk.js",
+    "static/media/classIcon.png": "/dmaster-card/static/media/classIcon.4431785218376e851ab0.png",
+    "index.html": "/dmaster-card/index.html",
+    "main.06d4bbe2.css.map": "/dmaster-card/static/css/main.06d4bbe2.css.map",
+    "main.cb712a15.js.map": "/dmaster-card/static/js/main.cb712a15.js.map",
+    "453.723a2ecd.chunk.js.map": "/dmaster-card/static/js/453.723a2ecd.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.e27c75d0.css",
-    "static/js/main.01e84628.js"
+    "static/css/main.06d4bbe2.css",
+    "static/js/main.cb712a15.js"
   ]
 }
